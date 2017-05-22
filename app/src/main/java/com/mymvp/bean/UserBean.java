@@ -1,6 +1,7 @@
 package com.mymvp.bean;
 
 public class UserBean {
+
 	private String mFirstName;
 	private String mLastName;
 
